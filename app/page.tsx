@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <main className="container">
-      <h1>Mourya</h1>
+      <h1>S Chandra Mourya</h1>
       <p>B.Tech in IoT & Cybersecurity</p>
 
       <section>
