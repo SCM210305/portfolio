@@ -2,15 +2,21 @@ body {
   margin: 0;
   background: #0f172a;
   color: #e5e7eb;
-  font-family: Arial, sans-serif;
+  font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
 }
 
 .container {
   padding: 40px;
+  max-width: 900px;
+  margin: auto;
 }
 
 h1 {
   font-size: 2.5rem;
+}
+
+h2 {
+  margin-bottom: 15px;
 }
 
 section {
@@ -33,22 +39,4 @@ section {
 
 .socials a:hover {
   text-decoration: underline;
-}
-
-/* LOGIN */
-.login {
-  height: 100vh;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
-
-.login input {
-  margin: 8px;
-  padding: 10px;
-}
-
-.error {
-  color: red;
 }

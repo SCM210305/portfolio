@@ -15,17 +15,18 @@ export default function Home() {
         </div>
 
         <div className="card">
-          <h3>Ongoing Project</h3>
+          <h3>Ongoing Research Project</h3>
           <p>
-            ESP32-based research project involving Wi-Fi, CSI analysis,
-            and embedded security.
+            ESP32-based project involving Wi-Fi communication, CSI analysis,
+            and embedded security concepts.
           </p>
         </div>
 
         <div className="card">
-          <h3>Upcoming Project</h3>
+          <h3>Upcoming Work</h3>
           <p>
-            Planned project focusing on advanced security and automation.
+            Advanced security-focused automation project integrating IoT
+            and system-level protection.
           </p>
         </div>
       </section>
@@ -33,10 +34,34 @@ export default function Home() {
       <section>
         <h2>Connect With Me</h2>
         <div className="socials">
-          <a href="https://github.com/SCM210305" target="_blank">GitHub</a>
-          <a href="https://linkedin.com/in/s-chandra-mourya" target="_blank">LinkedIn</a>
-          <a href="https://leetcode.com/Mourya_210305" target="_blank">LeetCode</a>
-          <a href="https://x.com/Mourya210305" target="_blank">X</a>
+          <a
+            href="https://github.com/SCM210305"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            GitHub
+          </a>
+          <a
+            href="https://linkedin.com/in/s-chandra-mourya"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            LinkedIn
+          </a>
+          <a
+            href="https://leetcode.com/Mourya_210305"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            LeetCode
+          </a>
+          <a
+            href="https://x.com/Mourya210305"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            X
+          </a>
         </div>
       </section>
     </main>
