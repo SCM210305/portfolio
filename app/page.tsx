@@ -33,10 +33,10 @@ export default function Home() {
       <section>
         <h2>Connect With Me</h2>
         <div className="socials">
-          <a href="https://github.com/yourusername" target="_blank">GitHub</a>
-          <a href="https://linkedin.com/in/yourusername" target="_blank">LinkedIn</a>
-          <a href="https://leetcode.com/yourusername" target="_blank">LeetCode</a>
-          <a href="https://x.com/yourusername" target="_blank">X</a>
+          <a href="https://github.com/SCM210305" target="_blank">GitHub</a>
+          <a href="https://linkedin.com/in/s-chandra-mourya" target="_blank">LinkedIn</a>
+          <a href="https://leetcode.com/Mourya_210305" target="_blank">LeetCode</a>
+          <a href="https://x.com/Mourya210305" target="_blank">X</a>
         </div>
       </section>
     </main>
